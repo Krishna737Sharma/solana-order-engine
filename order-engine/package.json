@@ -16,10 +16,14 @@
     "pg": "^8.11.3"
   },
   "devDependencies": {
+    "@types/jest": "^30.0.0",
     "@types/node": "^20.19.25",
     "@types/pg": "^8.10.7",
     "@types/ws": "^8.5.9",
-    "ts-node": "^10.9.1",
-    "typescript": "^5.2.2"
+    "jest": "^30.2.0",
+    "nodemon": "^3.1.11",
+    "ts-jest": "^29.4.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
